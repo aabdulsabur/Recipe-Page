@@ -191,6 +191,8 @@ td {
   text-decoration: none;
   color: var(--Stone-100);
 }
-
+.attribution a:hover {
+  color: var(--Stone-600);
+}
 /* - Mobile: 375px
 - Desktop: 1440px */
