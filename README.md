@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [solution URL](https://frontend-mentor-recipe-page-titi.netlify.app/)
+- Solution URL: [solution URL](https://github.com/aabdulsabur/Recipe-Page)
 - Live Site URL: [live site](https://frontend-mentor-recipe-page-titi.netlify.app/)
 
 ## My process
